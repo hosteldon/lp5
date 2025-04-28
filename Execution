@@ -1,5 +1,5 @@
 Openmp execution process
-g++ -fopenmp  file name.cpp -o filename
+g++ -fopenmp  filename.cpp -o filename
 ./filename
 
 
