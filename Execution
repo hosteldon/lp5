@@ -1,6 +1,6 @@
 Openmp execution process
-1st :-      g++ -fopenmp  file name.cpp -o filename
-2nd:-      ./filename
+g++ -fopenmp  file name.cpp -o filename
+./filename
 
 
 CUDA create file by .cu
