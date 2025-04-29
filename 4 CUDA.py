@@ -65,5 +65,5 @@ def main():
     print("Multiplication (D @ E):")
     print_matrix(F)
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
